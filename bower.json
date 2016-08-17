@@ -1,0 +1,13 @@
+{
+    "name": "pndv-chart",
+    "description": "Simple HTML5 charts using the canvas element.",
+    "main": "dist/chart.js",
+    "license": "MIT",
+    "homepage": "http://www.chartjs.org",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pandava-lima/Chart.js.git"
+    },
+    "dependencies": {},
+    "devDependencies": {}
+}
